@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class CircuitbreakerDemoApplication
 
 fun main(args: Array<String>) {
-    runApplication<CircuitbreakerDemoApplication>(*args)
+  runApplication<CircuitbreakerDemoApplication>(*args)
 }
